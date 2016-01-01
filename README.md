@@ -4,7 +4,7 @@ TipCalc is a tip calculator application for iOS.
 
 Submitted by: JoeHalpin
 
-Time spent: 2.5 hours spent in total
+Time spent: 7.5 hours spent in total
 
 ## User Stories
 
@@ -12,7 +12,7 @@ The following **required** functionality is complete:
 * [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
 The following **optional** features are implemented:
-* [ ] Settings page to change the default tip percentage.
+* [X] Settings page to change the default tip percentage.
 * [ ] UI animations
 * [ ] Remembering the bill amount across app restarts (if <10mins)
 * [ ] Using locale-specific currency and currency thousands separators.
@@ -20,13 +20,15 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [X] Ipmroved app UI
+- [X] Added functionality to display the total split amongst a party (up to four people)
+- [X] Added app icon and launch page
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/GF5o1Kh.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/e78bH6o.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
